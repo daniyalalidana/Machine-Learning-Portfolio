@@ -9,7 +9,7 @@ A collection of practical AI/ML projects focused on solving real-world business 
 - **Solution:** Built a Linear Regression model to analyze ROI.
 - **Result:** TV ads showed the highest sales impact.
 - **Tech Stack:** Python, Pandas, Scikit-Learn
-- [View Notebook](./01_Regression_Projects/03_Ad_Sales_Optimizer/sales_analysis.ipynb)
+- [View Notebook](./01_Regression_Projects/01_Ad_Sales_Optimizer/sales_analysis.ipynb)
 
 ### 2. Real Estate Valuator
 - **Goal:** Predict house prices based on size and age.
