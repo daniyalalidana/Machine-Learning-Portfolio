@@ -11,16 +11,13 @@ A collection of practical AI/ML projects focused on solving real-world business 
 - **Tech Stack:** Python, Pandas, Scikit-Learn
 - [View Notebook](./01_Regression_Projects/01_Ad_Sales_Optimizer/sales_analysis.ipynb)
 
-### 3. California House Price Predictor (Advanced Regression)
+### 2. California House Price Predictor (Advanced Regression)
 * **Goal:** Predict housing prices using the California Housing dataset.
 * **Tech Stack:** Ridge & Lasso Regression, StandardScaler, Cross-Validation.
 * **Key Achievement:** Implemented **L1 (Lasso)** and **L2 (Ridge)** regularization to prevent overfitting and handle feature scaling.
 * [Link to Code](./01_Regression_Projects/02_House_Price_Prediction/house_price_ridge_lasso.ipynb)
 
-### 2. Real Estate Valuator
-- **Goal:** Predict house prices based on size and age.
-- **Model:** Linear Regression
-- [View Notebook](./01_Regression_Projects/02_Real_Estate_Valuator/house_price.ipynb)
+
 
 ### 3. Social Media Ad Targeter (Classification)
 * **Problem:** A luxury SUV manufacturer wanted to target ads only to users likely to buy.
