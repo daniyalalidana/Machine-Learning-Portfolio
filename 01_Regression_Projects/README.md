@@ -15,3 +15,10 @@ A collection of practical AI/ML projects focused on solving real-world business 
 - **Goal:** Predict house prices based on size and age.
 - **Model:** Linear Regression
 - [View Notebook](./01_Regression_Projects/02_Real_Estate_Valuator/house_price.ipynb)
+
+### 3. Social Media Ad Targeter (Classification)
+* **Problem:** A luxury SUV manufacturer wanted to target ads only to users likely to buy.
+* **Solution:** Compared Logistic Regression vs. K-Nearest Neighbors (KNN).
+* **Technique:** Used **StandardScaler** to normalize Age and Salary data for accurate KNN predictions.
+* **Result:** Achieved 100% accuracy with Logistic Regression, optimizing the marketing budget.
+* [Link to Code](./02_Classification_Projects/01_Social_Network_Ads/ads_model.ipynb)
